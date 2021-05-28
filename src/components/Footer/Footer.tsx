@@ -15,7 +15,7 @@ const Footer = (): JSX.Element => {
       {/* eslint-disable-next-line react/jsx-no-comment-textnodes */}
       <div className="divider">//</div>
       <a
-        href="https://github.com/Straiffi/transition-designer"
+        href="https://github.com/NitorCreations/transition-designer"
         target="_blank"
         rel="noreferrer"
       >
